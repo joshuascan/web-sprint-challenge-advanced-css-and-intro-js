@@ -38,6 +38,8 @@ Please answer the following questions below, you may edit the readme file to inc
 
 4. What is the purpose of using functions in code?
 
+    Functions are a way to save a section of code for us to invoke whenever needed, rather than having to retype it over and over again throughout our code. They keep our code dry, organized, and efficient.
+
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
 ## Instructions
