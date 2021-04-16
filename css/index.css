@@ -76,6 +76,7 @@ nav{
 }
 nav a{
     color:#626262;
+    margin: 0 5%;
 }
 nav span{
     border-left:3px solid #626262;
