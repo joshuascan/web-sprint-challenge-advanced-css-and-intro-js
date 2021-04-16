@@ -27,6 +27,11 @@ Please answer the following questions below, you may edit the readme file to inc
     Accessibility is what ensures that all people will be able to use the internet, regardless of their circumstances. For example, this would include people with vision impairment, slow internet connections, and people who view the internet in grayscale.
 
 2. Talk about 3 different things you can do to ensure your website is accessible. 
+
+    1. Use scalable units. This would allow people to adjust the font size in the browser settings to their needs.
+    2. Responsive breakpoints ensure that people can view your website on whatever device they might be using.
+    3. Avoiding the use of red/green as those are the hardest colors for colorblind people to differentiate, and ensuring that colorfully displayed components have a visual element to go along with them.
+
 3. How would you explain the concept of a variable to someone new to programming?
 4. What is the purpose of using functions in code?
 
