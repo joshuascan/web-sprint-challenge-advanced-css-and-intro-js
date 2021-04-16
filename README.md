@@ -33,6 +33,9 @@ Please answer the following questions below, you may edit the readme file to inc
     3. Avoiding the use of red/green as those are the hardest colors for colorblind people to differentiate, and ensuring that colorfully displayed components have a visual element to go along with them.
 
 3. How would you explain the concept of a variable to someone new to programming?
+
+    A variable is a container in javascript that allows us to store and change values that we can then use in our code.
+
 4. What is the purpose of using functions in code?
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
